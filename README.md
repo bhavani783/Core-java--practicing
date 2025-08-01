@@ -50,6 +50,6 @@
  ####Instructions:
  1)click on the link
  2)select Master branch to see the code.
- 3)click on the project.
+ 3)click on the Src(where you can see all the code ).
  
 
